@@ -14,7 +14,7 @@ h1 {
   background-size: cover;
 }
 
-.background a {
+a {
   color: white;
   font-size: 18px
 }
@@ -37,4 +37,11 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+.footer {
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
 }
