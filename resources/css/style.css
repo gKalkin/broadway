@@ -3,11 +3,38 @@ body {
   font-family: "Helvetica", sans-serif;
 }
 
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
 .background {
   color: white;
-  background-image: url("../images/the-flatiron-building.png")
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
 }
 
 .background a {
   color: white;
+  font-size: 18px
+}
+
+.background h2 {
+  color: white;
+  font-size: 23;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
